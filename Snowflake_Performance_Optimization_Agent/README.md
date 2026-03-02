@@ -1,4 +1,4 @@
-# Snowflake Performance Agent 🚀
+# Snowflake Performance Optimization Agent 🚀
 
 An AI-powered SQL performance analysis and optimization tool for Snowflake data warehouses. This project uses **LangGraph** for deterministic workflow orchestration and **Google Gemini** for intelligent query analysis.
 
